@@ -1,3 +1,3 @@
 # Spring Kotlin OAuth2
 
-Spring Kotlin으로 OAuth2 적용하기
+Spring Kotlin을 이용한 OAuth2 적용

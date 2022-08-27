@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class KotlinOauth2Application
 
 fun main(args: Array<String>) {
-	runApplication<KotlinOauth2Application>(*args)
+    runApplication<KotlinOauth2Application>(*args)
 }
