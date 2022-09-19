@@ -5,7 +5,7 @@ import org.springframework.security.core.userdetails.UserDetails
 import javax.persistence.*
 
 @Entity
-@Table(name = "user")
+@Table(name = "tb_user")
 class User(name: String, email: String, password: String) : BaseTime(), UserDetails {
 
     @Id
